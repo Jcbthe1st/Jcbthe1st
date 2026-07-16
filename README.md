@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jcbthe1st
 - 👀 I’m interested in computer science and motorbikes
-- 🌱 I’m currently learning secure software development
+- 🌱 I’m currently applying secure software development and mobile AI applications
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
